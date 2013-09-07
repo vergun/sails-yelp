@@ -1,0 +1,27 @@
+{
+  "name": "sails-yelp",
+  "version": "0.0.1",
+  "description": "Adapter for the Yelp API",
+  "main": "YelpAdapter.js",
+  "scripts": {
+    "test": "echo \"Adapter should be tested using Sails.js core.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vergun/sails-yelp.git"
+  },
+  "keywords": [
+    "orm",
+    "waterline",
+    "sails",
+    "sailsjs",
+    "sails.js",
+    "yelp"
+  ],
+  "author": "Verdi Ergun",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "yelp": "~0.1.1"
+  }
+}
